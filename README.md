@@ -5,7 +5,7 @@
 I am a high school student who just codes for fun :)
 
 ## Featured project
-What I've learnt(<https://github.com/DanielSun29/data-structures>)
+What I've learnt(<https://github.com/DanielSun29/data-structures>)\
 Game I made(<https://microstudio.io/TigerH/adventure_rpg_template/S3HAGBBV/>)
 
 I've learnt data structures in C#; and now I'm developing my own app!
