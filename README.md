@@ -20,7 +20,7 @@ I'm currently developing my own app for health & well-being among elders
 
 ## My toolbox
 
-Data Structures
+Data Structures\
 [![Git commit history](https://img.shields.io/badge/Git-commits-185a48?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DanielSun29/data-structures/commits) [![Markdown project README](https://img.shields.io/badge/Markdown-README-40516c?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/DanielSun29/data-structures#readme)
 
 - 🔭 I’m currently working on my own app
